@@ -56,6 +56,18 @@
 	-webkit-border-radius: 2px;
 }
 
+/* ================================================= */
+#particles-js{
+	width:100%;
+	display:block;
+	height:100%;
+	position:absolute;
+	z-index:0;
+}
+#particles-js.fixed{
+	position:fixed;
+}
+
 
 /* ================================================== */
 .de_tab .de_nav {
